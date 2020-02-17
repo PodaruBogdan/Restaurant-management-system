@@ -1,0 +1,9 @@
+--Order 4
+--Date : 2019/05/03 00:07:50
+--Table : 5
+--Ordered : 
+1. Castraveti    price : 5.0
+2. Piper    price : 1.5
+3. Mixt    price : 39.5
+
+--Total : 46.0
